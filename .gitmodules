@@ -1,0 +1,3 @@
+[submodule "VehicleAnalysis"]
+	path = VehicleAnalysis
+	url = git@github.com:stevendaniluk/VehicleAnalysis.git

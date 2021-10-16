@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<LDXFile Locale="English_United States.1252" DefaultLocale="C" Version="1.6">
+ <Layers>
+  <Layer>
+   <MarkerBlock>
+    <MarkerGroup Name="Beacons" Index="0"/>
+   </MarkerBlock>
+   <RangeBlock/>
+  </Layer>
+  <Details>
+   <String Id="Total Laps" Value="1"/>
+   <String Id="Fastest Time" Value="2:54.740"/>
+   <String Id="Fastest Lap" Value="0"/>
+  </Details>
+ </Layers>
+</LDXFile>
